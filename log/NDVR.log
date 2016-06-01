@@ -1,0 +1,6 @@
+[ INFO] [NDVR] 2016-01-11 09:58:34: 0    [main] ( TextGlobalRetrieval.java,246 ) - Begin getSplitText
+[ INFO] [NDVR] 2016-01-11 09:58:35: 1051 [main] ( TextGlobalRetrieval.java,302 ) - ["今天是","星期一"]
+[ INFO] [NDVR] 2016-01-11 10:02:34: 0    [main] ( TextGlobalRetrieval.java,246 ) - Begin getSplitText
+[ INFO] [NDVR] 2016-01-11 10:02:34: 295  [main] ( TextGlobalRetrieval.java,302 ) - ["今天是","星期一"]
+[ INFO] [NDVR] 2016-01-11 10:02:54: 0    [pool-1-thread-1] ( Utils.java,310 ) - Supplied authorities: 162.105.146.209:10000
+[ INFO] [NDVR] 2016-01-11 10:02:54: 3    [pool-1-thread-1] ( Utils.java,397 ) - Resolved authority: 162.105.146.209:10000

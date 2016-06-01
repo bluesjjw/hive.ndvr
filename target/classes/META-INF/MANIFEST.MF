@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: jeremyjiang
+Build-Jdk: 1.8.0_51
+Main-Class: cn.pku.net.db.hive.ndvr.client.TextGlobalDetection
+Created-By: Maven Integration for Eclipse
+
